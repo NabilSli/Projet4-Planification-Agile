@@ -7,19 +7,20 @@ conducting technological surveillance, and devising a Kanban board for step-by-s
 ## 🚀 Project Highlights
 
 * **Technical Specifications:** Crafted detailed technical requirements for the project.
-* **Technological Watch:** Conducted extensive research to ensure the application leveraged the latest technologies.
+* **Technological Watch:** Conducted extensive research to ensure the application leveraged the latest technologies and make technological watch tools.
 * **Kanban Board Creation:** Implemented a Kanban board to streamline project management, allowing team members to plan tasks effectively.
 
 ## ⚙️ Technologies Utilized
 
-* **HTML/CSS:** Employed HTML to structure the app and CSS for styling, ensuring a responsive and visually appealing interface.
-* **GIT:** Leveraged Git for version control, managing branches and pull requests to maintain a streamlined development workflow.
-* **Figma:** Utilized Figma to interpret and break down wireframes, aiding in HTML construction.
+* **PowerPoint:** Create presentation to show clients.
+* **Notion:** Make a tean kanban to effectively watch all team members works and progress.
+* **Wakelet:** Accessible technological watch tool for the hole team, with multiple sources like blog article, youtube videos, twitter threads and documentation.
+* **Trello:** Organise sprints, calculate needed time for each parts of the project with the team by using a planing poker. Sort each user story in must have/ could have/ should have/ wont have table.
 
 ## 📝 Resources Used
 
-* [Agile Project Management](resource_link_1)
-* [Technical Specifications Writing Guide](resource_link_2)
-* [Kanban Methodology](resource_link_3)
-* [HTML/CSS Mastery](resource_link_4)
-* [Git and GitHub Practices](resource_link_5)
+* full presentations in the files
+* [Kanban](https://www.notion.so/c4ce0a7a1bbd4f219a603f8904c8dc7d?v=75d667f7263c4eecbc9ba4119ec04a7a&pvs=4)
+* [Trello](https://trello.com/invite/b/NhGzqGgy/ATTIeb5d604dca01f707f399a4d5b9bd4df229670A51/tableau-agile)
+* [Wakelet](https://wakelet.com/wake/5G-290b03bD6BVsxeHPVa)
+
